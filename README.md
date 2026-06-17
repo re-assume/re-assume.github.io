@@ -2,7 +2,7 @@
 
 A modern, production-ready resume builder with AI writing assistance, live preview, ATS auditing, and PDF/DOCX/JSON export. Fully static — runs on GitHub Pages.
 
-**Live:** https://reassume.github.io/
+**Live:** https://re-assume.github.io/
 
 ## Features
 
